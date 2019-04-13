@@ -48,7 +48,7 @@ public class MainController {
 	@RequestMapping("getSingle")
 	public void getSingleEmp()
 	{
-		
+		System.out.println("This is simple method");
 	}
 
 }
