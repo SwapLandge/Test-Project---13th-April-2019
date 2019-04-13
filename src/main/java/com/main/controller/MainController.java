@@ -45,6 +45,7 @@ public class MainController {
 		return emp;
 	}
 	
+	@RequestMapping("getSingle")
 	public void getSingleEmp()
 	{
 		
