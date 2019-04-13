@@ -44,5 +44,10 @@ public class MainController {
 		emp.add(e1);emp.add(e2);emp.add(e3);emp.add(e4);emp.add(e5);
 		return emp;
 	}
+	
+	public void getSingleEmp()
+	{
+		
+	}
 
 }
